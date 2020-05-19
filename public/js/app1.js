@@ -1,5 +1,5 @@
 
-
+console.log('hi');
 
 document.querySelector('form').addEventListener('submit',(e)=>{
     e.preventDefault();
